@@ -1,7 +1,7 @@
 # Tutorial: Thumb-mounted controller
 
 This thumb-mounted controller is an input device for use in extended reality (XR) environments, it operates by sensing its user’s thumb gestures in which thumb contact and movements are processed using various output data. This data is gathered from 2 or more force sensitive resistors and a gyroscope. Recognised gestures are then sent to an XR device via Bluetooth Low Energy (BLE).
-In this version, the Thumb-mounted controller uses Adafruit CircuitPython libraries for creating a BLE keyboard profile
+In this version, the Thumb-mounted controller uses Adafruit LSM6DS3 libraries for handling the inertial measurement unit (IMU) and read analog data from the board's GPIOs.
 
 ## Materials
 ### Seeed Xiao BLE Sense
