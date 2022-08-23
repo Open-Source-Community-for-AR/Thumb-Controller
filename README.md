@@ -20,6 +20,8 @@ For this controller, a 3.3V 25mAH battery is soldered on the board. For a more a
 ### 3D Printed Housing
 This housing should be printed with [TPU filament](https://www.amazon.com/NinjaTek-3DNF01117505-NinjaFlex-Filament-Midnight/dp/B078JGZRCK/ref=sr_1_19?crid=1TTAU3LOV2P8C&keywords=tpu+filament&qid=1657919414&sprefix=tpu%2Caps%2C93&sr=8-19) (link is an example only) for better fitting. The `.stl` file for this housing can be found [here](Housing.stl).
 
+In the future, a better ergornomic version of this housing will be published to improve users' thumbs fitness.
+
 ## Controller Architecture
 FSRs play an important role on this controller for touch recognition (i.e. swiping and pressing). To use the force sensors, we need to make a voltage divider circuit as shown in the figure below. 
 
