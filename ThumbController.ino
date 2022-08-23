@@ -1,4 +1,4 @@
-#include "PropV2Seeed.h"
+#include "ThumbController.h"
 #include <LSM6DS3.h>
 #include <Wire.h>
 #include <ArduinoBLE.h>
