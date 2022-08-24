@@ -51,11 +51,13 @@ The housing is comprised of two parts, one for holding the Xiao BLE Sense board 
 *See the [3D Printed Housing](#3d-printed-housing) section for more details on the housing.*
 
 ## Gestures
-At the moment, this controller supports the following gestures:
+The thumb controller senses the finger gestures and change its input state in response with the sensed gestures and sends it to the AR headset via BLE. At the moment, this controller supports the following gestures:
 - Swiping left/right
 - Swiping up/down
 - Quick press
 - Long press
+
+
 
 *More gestures will be added in the future.*
 
